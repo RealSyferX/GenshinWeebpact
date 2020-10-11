@@ -38,6 +38,7 @@ bool Alt()
 			NoCD3 = (QWORD)(hello + 0x1CCE771);//0F 10 70 30 F6 81 0A 01 00 00 01 74 0E 83 B9 BC 00 00 00 00 75 05 E8 C4 AE 9A 02
 			BoxTrz = (QWORD)(hello + 0x1C6ED77);//74 1C 48 85 C0 0F 84 CF
 			BoxTrz2 = (QWORD)(hello + 0x1C6EDFA);//74 E2 33 D2 48 8B CF
+			Stamina = (QWORD)(UserAssembly + 0xD45C44);//48 8B C8 E8 ?? ?? ?? ?? 4D ?? ?? 49 8B 8A 98 01 00 00 48 89 4C 24 20 (+3)
 			Booled[1] = true;
 		}
 	}
