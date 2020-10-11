@@ -2,9 +2,7 @@
 
 #pragma region Definer
 static QWORD hello;
-static QWORD NoCD1;
-static QWORD NoCD2;
-static QWORD NoCD3;
+static QWORD NoCD1, NoCD2, NoCD3;
 static QWORD Stamina;
 static QWORD BoxTrz, BoxTrz2;
 static bool Booled[50];
