@@ -1,0 +1,2 @@
+# GenshinWeebpact
+Learning Purpose
