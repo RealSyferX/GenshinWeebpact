@@ -1,4 +1,3 @@
-# GenshinWeebpact
 # Genshin Impact Internal
 
 #### With : Signature Scan.
