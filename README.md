@@ -1,6 +1,7 @@
 # GenshinWeebpact
-Genshin Impact Internal Hacks
-With : Signature Scan.
+# Genshin Impact Internal
+
+#### With : Signature Scan.
 
 -Nightcoreslbi
 
